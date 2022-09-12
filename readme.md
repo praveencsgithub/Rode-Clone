@@ -10,6 +10,6 @@
 
 # Time taken to finish this project is 5 hours.
 
-[Live link ](https://classy-nougat-941fc6.netlify.app/)
+[Live link ](https://cerulean-cendol-270912.netlify.app/)
 
 
